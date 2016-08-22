@@ -90,7 +90,7 @@
 | ![powershell](icons/file_type_powershell@2x.png) | powershell | ps1, psm1, psd1 |
 | ![puppet](icons/file_type_puppet@2x.png) | puppet | epp |
 | ![python](icons/file_type_python@2x.png) | python | py, pyw |
-| ![r](icons/file_type_r@2x.png) | r | r |
+| ![r](icons/file_type_R@2x.png) | r | r |
 | ![rails](icons/file_type_rails@2x.png) | rails |   |
 | ![reactjs](icons/file_type_reactjs@2x.png) | reactjs | jsx |
 | ![reacttemplate](icons/file_type_reacttemplate@2x.png) | reacttemplate | rt |
